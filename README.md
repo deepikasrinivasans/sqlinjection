@@ -39,10 +39,10 @@ Click on the menu Login/Register and register for an account
 ![Screenshot 2023-06-10 214003](https://github.com/praveenst13/sqlinjection/assets/118787793/dfe4513c-3c0d-43e0-b1e4-ad4baee43b98)
 
 Click on the link “Please register here”
-![3](https://github.com/sivaram-R/sqlinjection/assets/121165794/202e1d37-5c76-4ebd-a7e2-47d71027f4cf)
+![5](https://github.com/deepikasrinivasans/sqlinjection/assets/119393935/9afc3e91-9fbd-4ef2-a68d-56350aedc136)
 
 Click on “Create Account” to display the following page:
-![4](https://github.com/sivaram-R/sqlinjection/assets/121165794/c6742298-8692-4331-a13c-30cf9096773f)
+![6](https://github.com/deepikasrinivasans/sqlinjection/assets/119393935/35748669-5d74-4c2c-8de0-679b7c32b4c8)
 
 The login structure we will use in our examples is straightforward. It contains two input fields (username and password), which are both vulnerable. The back-end content creates a query to approve the username and secret key given by the client. Here is an outline of the page rationale:
 
@@ -50,8 +50,8 @@ The login structure we will use in our examples is straightforward. It contains 
  For the username put “ganesh” or “anything” and for the password put (anything’ or ‘1’=’1) or (admin’ or ‘1’=’1) then try to log in, and you’ll be presented with an admin login page.
 
 Click “Login”. The logged in page will show as below:
-![5](https://github.com/sivaram-R/sqlinjection/assets/121165794/be2c0658-7950-454d-b4ff-e4005e7f9498)
 
+![6](https://github.com/deepikasrinivasans/sqlinjection/assets/119393935/de508a77-2d56-470b-b5ab-4e4c3e2d318a)
 
 ##Bypassing login field
 
