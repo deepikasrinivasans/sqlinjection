@@ -1,4 +1,4 @@
-# sqlinjection
+# EX-08 sqlinjection
 Exploiting SQL Injection vulnerability.
 
 # AIM:
